@@ -1,0 +1,6 @@
+name: webgldartlogo
+description: Sample application using webgl and three.dart
+version: 0.0.1
+dependencies:
+  three.dart:
+    git: https://github.com/threeDart/three.dart.git
