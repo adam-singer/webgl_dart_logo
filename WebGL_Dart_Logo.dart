@@ -1,8 +1,13 @@
 #import('dart:html');
 #import('dart:math', prefix:'Math');
-#import('../../src/ThreeD.dart');
-#import('../../src/extras/ImageUtils.dart', prefix:'ImageUtils');
-#import('../../src/extras/SceneUtils.dart', prefix:'SceneUtils');
+
+#import('package:three.dart/src/ThreeD.dart');
+#import('package:three.dart/src/extras/ImageUtils.dart', prefix:'ImageUtils');
+#import('package:three.dart/src/extras/SceneUtils.dart', prefix:'SceneUtils');
+
+//#import('../../src/ThreeD.dart');
+//#import('../../src/extras/ImageUtils.dart', prefix:'ImageUtils');
+//#import('../../src/extras/SceneUtils.dart', prefix:'SceneUtils');
 
 class WebGLDartLogo {
   Element container;

@@ -1,7 +1,7 @@
 #################
 ## Eclipse
 #################
-
+pubspec.lock
 *.pydevproject
 .project
 .metadata
